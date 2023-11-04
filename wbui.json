@@ -1,0 +1,45 @@
+{
+    "WBUI2": {
+      "settings": {
+          "OpenButton": 0,
+          "HideIcon": false,
+          "HideIconAfter": 60,
+          "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+          "DisableIconText": false,
+          "OpenOnStart": true,
+          "OpenOnStartOnlyNewPlayers": true,
+          "UpdateInterval": 12
+        },
+      "tabs": [
+        {
+          "tab1": {
+            "layout": 1,
+            "buttontext": "Welcome",
+            "title1": "Welcome to #MATRIX!",
+            "text1": "Thank you for joining this server! Join our discord to be informed of all things! Discord: discord.gg/c6WtbVzYCg",
+            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          }
+        },
+        {
+          "tab2": {
+            "layout": 2,
+            "buttontext": "2 Box layout",
+            "title1": "Left title",
+            "title2": "Right title",
+            "text1": "This text goes into the left box",
+            "text2": "This text goes into the right box",
+            "imageurl": ""
+          }
+        }
+        
+      ],
+      "links": [
+        {
+          "link1": {
+            "text": "Discord",
+            "url": "https://discord.gg/c6WtbVzYCg"
+          }
+        }
+      ]
+    }
+  }
