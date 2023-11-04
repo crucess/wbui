@@ -16,18 +16,18 @@
             "layout": 1,
             "buttontext": "Welcome",
             "title1": "Welcome to #MATRIX!",
-            "text1": "Thank you for joining this server! Join our discord to be informed of all things! Discord: discord.gg/c6WtbVzYCg",
+            "text1": "Thank you for joining this server! You can join our discord by clicking the Discord button below!",
             "imageurl": "https://i.imgur.com/mGt3cAF.png"
           }
         },
         {
           "tab2": {
             "layout": 2,
-            "buttontext": "2 Box layout",
-            "title1": "Left title",
-            "title2": "Right title",
-            "text1": "This text goes into the left box",
-            "text2": "This text goes into the right box",
+            "buttontext": "Rules",
+            "title1": "In Game Rules",
+            "title2": "Server Mods",
+            "text1": "Do not build on  KO/Bed and similar ratholes\nBuilding to restrict usage of drops or resource areas is NOT allowed\nMeshing, Exploiting, Tunneling, Duping is NOT allowed\nOB Building is NNOT allowed (Blue Ob Allowed)\nCaging is allowed only 3H",
+            "text2": "- Admin Panel\n- Custom Dino Levels\n- WBUI2\n\nMore Mods will be comming soon... !",
             "imageurl": ""
           }
         }
