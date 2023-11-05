@@ -16,18 +16,18 @@
             "layout": 1,
             "buttontext": "Welcome",
             "title1": "Welcome to #MATRIX!",
-            "text1": "Thank you for joining this server! You can join our discord by clicking the Discord button below!",
+            "text1": "Thank you for joining this server! You can join our discord by clicking the Discord button below!\n\n\nSETTINGS:\n\n- Harvest: x25\n- Taming: x100\n- Collision: Enabled\n- Custom Craft\n- Bushberry System for Bosses\n- Active Staffs",
             "imageurl": "https://i.imgur.com/mGt3cAF.png"
           }
         },
         {
           "tab2": {
             "layout": 2,
-            "buttontext": "Rules",
-            "title1": "In Game Rules",
-            "title2": "Server Mods",
-            "text1": "- Do not build on  KO/Bed and similar ratholes\n- Building to restrict usage of drops or resource areas is NOT allowed\n- Meshing, Exploiting, Tunneling, Duping is NOT allowed\n- OB Building is NNOT allowed (Blue Ob Allowed)\n- Caging is allowed only 3H",
-            "text2": "- Admin Panel\n- Custom Dino Levels\n- WBUI2\n\nMore Mods will be comming soon... !",
+            "buttontext": "Rules & Mods",
+            "title1": "IN GAME RULES",
+            "title2": "SERVER MODS",
+            "text1": "❌ - Do not build on  KO/Bed and similar ratholes\n❌ - Building to restrict usage of drops or resource areas is NOT allowed\n❌ - Meshing, Exploiting, Tunneling, Duping is NOT allowed\n❌ - OB Building is NNOT allowed (Blue Ob Allowed)\n❌ - Caging is allowed only 3H",
+            "text2": "🗒️ - Admin Panel\n🗒️ - Custom Dino Levels\n🗒️ - WBUI2\n\nMore Mods will be comming soon... !",
             "imageurl": ""
           }
         }
@@ -38,6 +38,12 @@
           "link1": {
             "text": "Discord",
             "url": "https://discord.gg/c6WtbVzYCg"
+          }
+        },
+        {
+          "link2": {
+            "text": "Nitrado",
+            "url": "https://nitrado.com"
           }
         }
       ]
