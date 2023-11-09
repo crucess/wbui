@@ -14,7 +14,7 @@
         {
           "tab1": {
             "layout": 1,
-            "buttontext": "Welcome",
+            "buttontext": "<TextStyle.Gren>Welcome</>",
             "title1": "Welcome to #MATRIX!",
             "text1": "Thank you for joining this server! You can join our discord by clicking the Discord button below!\n\n\n\nSETTINGS:\n\n\n- Harvest: x25\n\n- Taming: x100\n\n- Tribe Limit: 6 man\n\n- Collision: Enabled\n\n- Custom Drops\n\n- Custom Craft\n\n- Bushberry System for Bosses\n\n- Active Staffs",
             "imageurl": "https://i.imgur.com/Qxrw0Zu.png"
@@ -23,7 +23,7 @@
         {
           "tab2": {
             "layout": 2,
-            "buttontext": "Rules & Mods",
+            "buttontext": "<TextStyle.Gren>Rules & Mods</>",
             "title1": "IN GAME RULES",
             "title2": "SERVER MODS",
             "text1": "❌ - Do not build on  KO/Bed and similar ratholes\n\n❌ - Building to restrict usage of drops or resource areas like Ice Cave + UnderWater Caves (Pearls Caves Are Allowed)\n\n❌ - Meshing, Exploiting, Tunneling, Duping is NOT allowed\n\n❌ - OB Building is NNOT allowed (Blue Ob Allowed)\n\n❌ - Caging is allowed only 3H",
