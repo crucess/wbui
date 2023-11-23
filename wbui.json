@@ -5,8 +5,8 @@
           "HideIcon": false,
           "HideIconAfter": 60,
           "IconURL": "https://i.imgur.com/2I3LQHD.png",
-          "DisableIconText": false,
-          "OpenOnStart": true,
+          "DisableIconText": true,
+          "OpenOnStart": false,
           "OpenOnStartOnlyNewPlayers": true,
           "UpdateInterval": 12
         },
@@ -27,7 +27,7 @@
             "title1": "IN GAME RULES",
             "title2": "SERVER MODS",
             "text1": "<TextStyle.Yellow>❌ - Do not build on  KO/Bed and similar ratholes\n\n❌ - Building to restrict usage of drops or resource areas like Ice Cave + UnderWater Caves (Pearls Caves Are Allowed)\n\n❌ - Meshing, Exploiting, Tunneling, Duping is NOT allowed\n\n❌ - OB Building is NOT allowed (Blue Ob Allowed)\n\n❌ - Caging is allowed only 3H\n\n❌ - Dinos with platforms must be able to get shot from atleast one side\n\n❌ - Mesh Bitting is NOT allowed</>",
-            "text2": "<TextStyle.Yellow>🗒️ - Admin Panel\n\n🗒️ - WBUI2\n\n🗒️ - Cryopods\n\n🗒️ - Solo Farm Mod\n\n🗒️ - Super Spyglass\n\n🗒️ - Custom Dino Levels\n\n🗒️ - PVP Scoreboard\n\n🗒️ - ARKomatic\n\n🗒️ - Kavan's Shop\n\n🗒️ - Utilities Plus\n\n\n\nMore Mods will be comming soon... !",
+            "text2": "<TextStyle.Yellow>🗒️ - Admin Panel\n\n🗒️ - WBUI2\n\n🗒️ - Cryopods\n\n🗒️ - Solo Farm Mod\n\n🗒️ - Super Spyglass\n\n🗒️ - Custom Dino Levels\n\n🗒️ - PVP Scoreboard\n\n🗒️ - ARKomatic\n\n🗒️ - Kavan's Shop\n\n🗒️ - Utilities Plus\n\n\n\nMore Mods will be comming soon... !</>",
             "imageurl": "https://i.imgur.com/Qxrw0Zu.png"
           }
         }
